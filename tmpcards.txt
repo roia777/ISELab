@@ -1,0 +1,63 @@
+<div class="col-lg-4 col-md-6 mb-4">
+  <div class="card h-100">
+    <a href="#"><img class="card-img-top" src="http://www.cathedralpines.net/wp-content/uploads/2018/08/Wedding-Bouquet-of-Flowers-1920x1200-wide-wallpapers.net_-700x400.jpg" alt=""></a>
+    <div class="card-body">
+      <h4 class="card-title">
+        <a href="#">1st bouket</a>
+      </h4>
+      <h5>20$</h5>
+      <p class="card-text">Its our first bouket in the website, hence im realy excited about it!! I.F.</p>
+    </div>
+    <div class="card-footer">
+      <small class="text-muted">&#9733; &#9733; &#9733; &#9733; &#9734;</small>
+    </div>
+  </div>
+</div>
+
+<div class="col-lg-4 col-md-6 mb-4">
+  <div class="card h-100">
+    <a href="#"><img class="card-img-top" src="https://www.sugarmonkeycupcakes.com/wp-content/uploads/2018/07/flower-bouqet.jpg" alt=""></a>
+    <div class="card-body">
+      <h4 class="card-title">
+        <a href="#">2nd bouket</a>
+      </h4>
+      <h5>30$</h5>
+      <p class="card-text">This 2nd bouket here, will make your shabbat table even more gorgeous than it already is!!</p>
+    </div>
+    <div class="card-footer">
+      <small class="text-muted">&#9733; &#9733; &#9734; &#9734; &#9734;</small>
+    </div>
+  </div>
+</div>
+
+<div class="col-lg-4 col-md-6 mb-4">
+  <div class="card h-100">
+    <a href="#"><img class="card-img-top" src="http://naturalhairbride.com/wp-content/uploads/2018/04/beautiful-bouquet-bridal-313707-700x400.jpg" alt=""></a>
+    <div class="card-body">
+      <h4 class="card-title">
+        <a href="#">3rd bouket</a>
+      </h4>
+      <h5>60$</h5>
+      <p class="card-text">this 3rd bouket will make your life extremely happy BH!!</p>
+    </div>
+    <div class="card-footer">
+      <small class="text-muted">&#9733; &#9733; &#9733; &#9733; &#9733;</small>
+    </div>
+  </div>
+</div>
+
+<div class="col-lg-4 col-md-6 mb-4">
+  <div class="card h-100">
+    <a href="#"><img class="card-img-top" src="https://clarityflowers.co.uk/wp-content/uploads/2015/01/wedding-flowers-verwood-1-700x400.jpg" alt=""></a>
+    <div class="card-body">
+      <h4 class="card-title">
+        <a href="#">4th bouket</a>
+      </h4>
+      <h5>35.99$</h5>
+      <p class="card-text">this 4th bouket is great as a paper weight, recommended!</p>
+    </div>
+    <div class="card-footer">
+      <small class="text-muted">&#9733; &#9733; &#9733; &#9733; &#9734;</small>
+    </div>
+  </div>
+</div>
